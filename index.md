@@ -5,8 +5,7 @@ I am writing a markdown for the changes I made to this file.
 
 A code example from Python:
 
-'''
-base = float()
+```base = float()
 
 height = float()
 
@@ -18,6 +17,4 @@ height = float(input("Enter triangle height size: "))
 
 area = float((base*height)*(.5))
 
-print("Your triangle has an area of", area)
-
-'''
+print("Your triangle has an area of", area)```
